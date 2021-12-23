@@ -8,6 +8,8 @@ for more details.
 
 The code is based on: <http://code.activestate.com/recipes/577358-pomodoro-timer/>
 
+This version is just a tweak on : <https://github.com/mehdidc/pomodoro>
+
 ## How to install ?
 
 ```bash
